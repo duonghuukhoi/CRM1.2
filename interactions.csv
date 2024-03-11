@@ -1,0 +1,11 @@
+inter_001,2000-01-20,lead_001,email,positive
+inter_002,2001-01-01,lead_005,email,negative
+inter_003,2002-02-03,lead_007,email,positive
+inter_004,2005-03-21,lead_008,email,neutral
+inter_005,2020-03-21,lead_009,email,positive
+inter_006,2020-04-10,lead_010,email,neutral
+inter_007,2020-05-15,lead_002,email,neutral
+inter_008,2020-06-30,lead_004,email,positive
+inter_009,2020-08-11,lead_003,email,negative
+inter_010,2020-08-12,lead_001,email,positive
+
